@@ -1,0 +1,45 @@
+
+body{
+    background-image: url('https://images.creativemarket.com/0.1.0/ps/5300732/2976/1984/m1/fpnw/wm0/light-wood-background-with-flower-.jpg?1541110839&s=cca21f900afb97948a74e20df27ed12c');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+    
+}
+h1{
+    color: rgb(87, 64, 6);   /* text color*/
+    font-weight: bold;
+    
+}   
+  p{
+     color: rgb(42, 10, 118);  /* text color*/
+    font-size: large; /* text alignment */
+      font-weight: bold;  /*text weight */
+    font-style: oblique;
+    
+}
+h2 {
+    color: rgb(3, 88, 23);   /* text color*/
+    font-size: xx-large;       /* text Size*/
+    font-weight: bolder;       /* text weight*/
+    font-style: italic;        /* text Style*/
+    text-align: center;
+
+}
+h2:hover{
+    color: rgb(229, 72, 5);    /* When cursor hover the text then color will be green */
+    font-size: xx-large;
+    
+}
+input{
+    color: rgb(241, 177, 14);
+    font-size: larger;
+    text-align: center;
+    
+}
+input:hover{
+      color: rgb(244, 68, 10);
+      font-size: larger;
+      
+}
